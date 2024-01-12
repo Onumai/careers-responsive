@@ -133,15 +133,13 @@ h2 {
 
  .form-group input, select, textarea {
     width: 90%;
-    padding: 4px;
+    padding: 8px;
     font-size: 1.25rem;
     border: 1px solid grey;
     border-radius: 5px;
+    margin-top: 4px;
 }
 
-select {
-    min-width: 92.5%;
-}
 
 .form-group textarea {
     font-family: 'Roboto', sans-serif;
